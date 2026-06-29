@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/workharsh99/leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/workharsh99/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/workharsh99/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/workharsh99/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/workharsh99/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Binary Search
+|  |
+| ------- |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/workharsh99/leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
