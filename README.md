@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/workharsh99/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/workharsh99/leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/workharsh99/leetcode-DSA/tree/master/3620-network-recovery-pathways) |
@@ -101,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/workharsh99/leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/workharsh99/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/workharsh99/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/workharsh99/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
