@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/workharsh99/leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0560-subarray-sum-equals-k](https://github.com/workharsh99/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/workharsh99/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/workharsh99/leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/workharsh99/leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/workharsh99/leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/workharsh99/leetcode-DSA/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/workharsh99/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/workharsh99/leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/workharsh99/leetcode-DSA/tree/master/3620-network-recovery-pathways) |
