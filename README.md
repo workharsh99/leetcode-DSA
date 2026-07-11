@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/workharsh99/leetcode-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/workharsh99/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/workharsh99/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/workharsh99/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3225-maximum-score-from-grid-operations](https://github.com/workharsh99/leetcode-DSA/tree/master/3225-maximum-score-from-grid-operations) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/workharsh99/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/workharsh99/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/workharsh99/leetcode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/workharsh99/leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/workharsh99/leetcode-DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/workharsh99/leetcode-DSA/tree/master/0069-sqrtx) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/workharsh99/leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/workharsh99/leetcode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search Tree
