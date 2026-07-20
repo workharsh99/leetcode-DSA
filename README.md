@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/workharsh99/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/workharsh99/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/workharsh99/leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/workharsh99/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/workharsh99/leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [2751-robot-collisions](https://github.com/workharsh99/leetcode-DSA/tree/master/2751-robot-collisions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/workharsh99/leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
