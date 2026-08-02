@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/workharsh99/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/workharsh99/leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/workharsh99/leetcode-DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/workharsh99/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/workharsh99/leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/workharsh99/leetcode-DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/workharsh99/leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3225-maximum-score-from-grid-operations](https://github.com/workharsh99/leetcode-DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/workharsh99/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/workharsh99/leetcode-DSA/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/workharsh99/leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/workharsh99/leetcode-DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/workharsh99/leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/workharsh99/leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/workharsh99/leetcode-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/workharsh99/leetcode-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
