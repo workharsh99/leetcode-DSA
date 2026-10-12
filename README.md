@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/workharsh99/leetcode-DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/workharsh99/leetcode-DSA/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/workharsh99/leetcode-DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/workharsh99/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/workharsh99/leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/workharsh99/leetcode-DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/workharsh99/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/workharsh99/leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/workharsh99/leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
