@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/workharsh99/leetcode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/workharsh99/leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/workharsh99/leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/workharsh99/leetcode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/workharsh99/leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/workharsh99/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/workharsh99/leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/workharsh99/leetcode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/workharsh99/leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/workharsh99/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/workharsh99/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/workharsh99/leetcode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/workharsh99/leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/workharsh99/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/workharsh99/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
