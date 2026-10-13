@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/workharsh99/leetcode-DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/workharsh99/leetcode-DSA/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/workharsh99/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/workharsh99/leetcode-DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/workharsh99/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/workharsh99/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/workharsh99/leetcode-DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/workharsh99/leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/workharsh99/leetcode-DSA/tree/master/1406-stone-game-iii) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/workharsh99/leetcode-DSA/tree/master/0181-employees-earning-more-than-their-managers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/workharsh99/leetcode-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
