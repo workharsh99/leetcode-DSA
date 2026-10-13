@@ -322,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/workharsh99/leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/workharsh99/leetcode-DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
