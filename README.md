@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/workharsh99/leetcode-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/workharsh99/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/workharsh99/leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/workharsh99/leetcode-DSA/tree/master/0053-maximum-subarray) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/workharsh99/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/workharsh99/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/workharsh99/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/workharsh99/leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/workharsh99/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0876-middle-of-the-linked-list](https://github.com/workharsh99/leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/workharsh99/leetcode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/workharsh99/leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
