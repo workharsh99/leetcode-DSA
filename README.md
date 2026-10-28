@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/workharsh99/leetcode-DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/workharsh99/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/workharsh99/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/workharsh99/leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/workharsh99/leetcode-DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/workharsh99/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/workharsh99/leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/workharsh99/leetcode-DSA/tree/master/1539-kth-missing-positive-number) |
