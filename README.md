@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/workharsh99/leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/workharsh99/leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/workharsh99/leetcode-DSA/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/workharsh99/leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/workharsh99/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/workharsh99/leetcode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/workharsh99/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/workharsh99/leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1672-richest-customer-wealth](https://github.com/workharsh99/leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/workharsh99/leetcode-DSA/tree/master/3225-maximum-score-from-grid-operations) |
