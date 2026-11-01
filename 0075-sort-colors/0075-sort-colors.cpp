@@ -6,14 +6,14 @@ public:
 
         while(mid <= high){
             if(nums[mid] == 0){
-                swap(nums[low],nums[mid]);
-                mid++; low++;
-            }else if(nums[mid] == 1){
+                swap(nums[mid],nums[low]);
+                low++; mid++;
+            } else if(nums[mid] == 1){
                 mid++;
-            }else{
+            } else{
                 swap(nums[mid],nums[high]);
                     high--;
+                }
             }
         }
-    }
-};
+    };
