@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/workharsh99/leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/workharsh99/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/workharsh99/leetcode-DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/workharsh99/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/workharsh99/leetcode-DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/workharsh99/leetcode-DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/workharsh99/leetcode-DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/workharsh99/leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/workharsh99/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/workharsh99/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/workharsh99/leetcode-DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/workharsh99/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/workharsh99/leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/workharsh99/leetcode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/workharsh99/leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
