@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/workharsh99/leetcode-DSA/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/workharsh99/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/workharsh99/leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/workharsh99/leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/workharsh99/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/workharsh99/leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/workharsh99/leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/workharsh99/leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/workharsh99/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/workharsh99/leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2751-robot-collisions](https://github.com/workharsh99/leetcode-DSA/tree/master/2751-robot-collisions) |
 ## Math
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/workharsh99/leetcode-DSA/tree/master/1260-shift-2d-grid) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/workharsh99/leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/workharsh99/leetcode-DSA/tree/master/1920-build-array-from-permutation) |
 | [2751-robot-collisions](https://github.com/workharsh99/leetcode-DSA/tree/master/2751-robot-collisions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/workharsh99/leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
